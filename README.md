@@ -1,6 +1,6 @@
 # Multi-Modal Vector Search from PDF Files
 
-This Jupyter notebook implements a **multi-modal vector search** system to perform information retrieval from PDF documents. It uses **vector embeddings** to search for both text and image data within PDFs, enabling enhanced retrieval accuracy and relevance. The notebook showcases the step-by-step process to achieve this functionality, integrating multiple tools, libraries, and techniques to extract, transform, and visualize information.
+This Jupyter notebook implements a **multi-modal vector search** system to perform information retrieval from PDF documents. It uses **vector embeddings** to search for tabular, text and image data within PDFs, enabling enhanced retrieval accuracy and relevance using LangChain,and GPT-40 . The notebook showcases the step-by-step process to achieve this functionality, integrating multiple tools, libraries, and techniques to extract, transform, and visualize information.
 
 ## Table of Contents
 
